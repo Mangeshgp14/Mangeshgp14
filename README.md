@@ -10,10 +10,10 @@
 
 - I can extract data from various sources like relational & non-relational databases, APIs 🌐, etc.
 
-- I can process and analyze the data with Excel, SQL & Python 🐍 followed by visualizing it with Power BI 📈.
-- My engineering background has helped me build a strong foundation in mathematics and statistics ➕➖🟰➗📐.
+- I can process 📝 and analyze the data with Excel, SQL & Python 🐍 followed by visualizing it with Power BI 📈.
+- My engineering background 🎓 has helped me build a strong foundation in mathematics and statistics ➕➖🟰➗📐.
 - My portfolio showcases various projects that demonstrate my proficiency 💪 in these tools and my understanding of the entire data analytics workflow 🧑‍💻.
-- I'm looking for full-time opportunities in the data analytics field.
+- I'm looking 🔎 for full-time opportunities 🧑‍💼 in the data analytics field.
 - If you find me ideal for any role ⭐, feel free to contact me anytime 📞.
 
 
