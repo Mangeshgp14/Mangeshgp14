@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mangesh Gopalkrishna Panchal</h1>
-<h3 align="center">A Data Analyst with 1+ of experience of working with Power BI and Excel.</h3>
+<h3 align="center">A Data Nerd with 1+ of experience of working with Power BI and Excel.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangeshgp14&label=Profile%20views&color=0e75b6&style=flat" alt="mangeshgp14" /> </p>
