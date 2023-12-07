@@ -6,11 +6,16 @@
 
 <p align="left"> <a href="https://twitter.com/mangeshgp14" target="blank"><img src="https://img.shields.io/twitter/follow/mangeshgp14?logo=twitter&style=for-the-badge" alt="mangeshgp14" /></a> </p>
 
-- 🌱 I’m currently learning **Pandas**
+- I'm a data-driven individual who loves to work with huge amounts of data 📊 and derive insights to drive the business 📈.
 
-- 👯 I’m looking to collaborate on **End-to-End Data Analytics Project**
+- I can extract data from various sources like relational & non-relational databases, APIs 🌐, etc.
 
-- 💬 Ask me about **Pandas**
+- I can process and analyze the data with Excel, SQL & Python 🐍 followed by visualizing it with Power BI 📈.
+- My engineering background has helped me build a strong foundation in mathematics and statistics ➕➖🟰➗📐.
+- My portfolio showcases various projects that demonstrate my proficiency 💪 in these tools and my understanding of the entire data analytics workflow 🧑‍💻.
+- I'm looking for full-time opportunities in the data analytics field.
+- If you find me ideal for any role ⭐, feel free to contact me anytime 📞.
+
 
 - 📫 How to reach me **mangeshgp14@gmail.com**
 
