@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://twitter.com/mangeshgp14" target="blank"><img src="https://img.shields.io/twitter/follow/mangeshgp14?logo=twitter&style=for-the-badge" alt="mangeshgp14" /></a> </p>
 
 - I'm a data-driven individual who loves to work with huge amounts of data 📊 and derive insights to drive the business 📈.
+- I have 1+ years of experience 🧑‍💼 building Power BI Dashboards and Excel Reports 📃.
 
 - I can extract data from various sources like relational & non-relational databases, APIs 🌐, etc.
 
