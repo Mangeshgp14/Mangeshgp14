@@ -19,6 +19,7 @@
 
 
 - 📫 How to reach me **mangeshgp14@gmail.com**
+- My resume: <a href='https://docs.google.com/document/d/13oaX-knSWXoRGuECmOR3J_up8GYeYTcp/edit?usp=sharing&ouid=109524364995881477510&rtpof=true&sd=true'>**Resume**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
