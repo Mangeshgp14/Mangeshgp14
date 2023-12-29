@@ -20,7 +20,20 @@
 
 - 📫 How to reach me **mangeshgp14@gmail.com**
 - <a href='https://docs.google.com/document/d/13oaX-knSWXoRGuECmOR3J_up8GYeYTcp/edit?usp=sharing&ouid=109524364995881477510&rtpof=true&sd=true'>**Resume**</a>
-
+<h3 align="left">Technical Skills</h3>
+<ol>
+  <li>Excel</li>
+  <li>SQL</li>
+  <li>Power BI</li>
+  <li>Python (Pandas, Matplotlib)</li>
+</ol>
+<h3 align="left">Non-Technical Skills</h3>
+<ol>
+  <li>Communication Skills</li>
+  <li>Collaboration</li>
+  <li>Leadership</li>
+  
+</ol>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mangeshgp14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mangeshgp14" height="30" width="40" /></a>
