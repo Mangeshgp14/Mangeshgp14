@@ -23,8 +23,9 @@
 <h3 align="left">Technical Skills</h3>
 <ol>
   <li>Excel</li>
-  <li>SQL</li>
+  <li>SQL (MySQL, MS SQL Server)</li>
   <li>Power BI</li>
+  <li>Tableau</li>
   <li>Python (Pandas, Matplotlib)</li>
 </ol>
 <h3 align="left">Non-Technical Skills</h3>
