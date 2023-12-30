@@ -41,9 +41,3 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mangesh-panchal-008baa192?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bavgat%2buutboie2qewtg9aa%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mangesh-panchal-008baa192?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bavgat%2buutboie2qewtg9aa%3d%3d" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mangeshgp14&show_icons=true&locale=en&layout=compact" alt="mangeshgp14" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mangeshgp14&show_icons=true&locale=en" alt="mangeshgp14" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mangeshgp14&" alt="mangeshgp14" /></p>
