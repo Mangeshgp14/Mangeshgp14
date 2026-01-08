@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm Mangesh Gopalkrishna Panchal</h1>
-<h3 align="center">A Data Nerd with 1+ of experience of working with Power BI and Excel.</h3>
+<h3 align="center">Product Manager with 1.5+ Years of Experience</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mangeshgp14&label=Profile%20views&color=0e75b6&style=flat" alt="mangeshgp14" /> </p>
+Here's my story 😎
 
-<p align="left"> <a href="https://twitter.com/mangeshgp14" target="blank"><img src="https://img.shields.io/twitter/follow/mangeshgp14?logo=twitter&style=for-the-badge" alt="mangeshgp14" /></a> </p>
+I started as a mechanical engineer ⚙️ and transitioned into Product Management 📊, driven by my interest in business and technology 💡.
 
-- I'm a data-driven individual who loves to work with huge amounts of data 📊 and derive insights to drive the business 📈.
-- I have **1+ years** of experience 🧑‍💼 building **Power BI Dashboards and Excel Reports** 📃.
+After 2 years in mechanical engineering, I joined a newly formed team in my organization as a PM (Solution Developer) 🚀. 
 
-- I can extract data from various sources like relational & non-relational databases, APIs 🌐, etc.
+My first assignment was to build and deploy a full-stack application 💻—something I had never done before. I figured it out and delivered successfully in the first go ✅.
 
-- I can process 📝 and analyze the data with **Excel, SQL & Python** 🐍 followed by visualizing it with **Power BI** 📈.
-- My engineering background 🎓 has helped me build a strong foundation in **mathematics** and **statistics** ➕➖🟰➗📐.
-- My **portfolio** showcases various projects that demonstrate my proficiency 💪 in these tools and my understanding of the entire data analytics workflow 🧑‍💻.
-- I'm looking 🔎 for **full-time opportunities** 🧑‍💼 in the data analytics field.
-- If you find me ideal for any role ⭐, feel free to contact me anytime 📞.
+Since then, I’ve worked on multiple applications and delivered 2–3 MVPs 🧩, with 2 moving into full-scale development next year 📈. 
+
+I’ve collaborated with stakeholders across India 🇮🇳 and Norway 🇳🇴 and worked closely with designers 🎨, developers 👨‍💻, and testers 🧪.
+
+In practice, I operate as a PM + BA + Scrum Master 🔄—owning planning, execution, and delivery end to end.
+
+If you’re looking for someone who plans smart and executes fast ⚡, let’s connect.
+
+📩 mangeshgp14@gmail.com
 
 
 - 📫 How to reach me **mangeshgp14@gmail.com**
