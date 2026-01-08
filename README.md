@@ -6,7 +6,7 @@
 
 I started as a mechanical engineer ⚙️ and transitioned into Product Management 📊, driven by my interest in business and technology 💡.
 
-After 2 years in mechanical engineering, I joined a newly formed team in my organization as a PM (Solution Developer) 🚀.
+After 2 years in mechanical engineering, I joined a newly formed team in my organization as a Product Manager (Title: Solution Developer) 🚀.
 
 * My first assignment was to build and deploy a full-stack application 💻—something I had never done before. I figured it out and delivered successfully in the first go ✅.
 * Since then, I’ve worked on multiple applications and delivered 2–3 MVPs 🧩, with 2 moving into full-scale development next year 📈.
